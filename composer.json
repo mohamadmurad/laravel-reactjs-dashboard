@@ -1,5 +1,5 @@
 {
-    "name": "Laravel ReactJS Dashboard",
+    "name": "mohamadmurad/laravel-reactjs-dashboard",
     "type": "project",
     "description": "A laravel dashboard built in InertiaJs + ReactJs",
     "keywords": ["Laravel","Bootstrap","ReactJS","InertiaJS","laravel-permission", "laravel"],
