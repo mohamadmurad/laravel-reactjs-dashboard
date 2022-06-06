@@ -122,3 +122,12 @@ notification
     right: 0 !important;
     transform: translateX(0) !important;
 }
+
+@media (min-width: 992px){
+    .navbar-nav .dropdown-menu {
+         display: none;
+
+    }
+
+
+}
